@@ -1,0 +1,35 @@
+* 
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1
+{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: cornflowerblue;
+    font-size: 80px;
+    margin: auto;
+    width: 400px;
+    border: black 2px solid;
+    border-radius: 5px;
+    font-family: 'Odibee Sans', cursive;
+}
+#caixa
+{
+    font-family: 'Odibee Sans', cursive;
+    color: blanchedalmond;
+    text-align: center;
+    background-color: cornflowerblue;
+    margin: auto;
+    width: 400px;
+    height: 480px;
+    border: black 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+}
+body
+{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c3/MC_Bin_Laden_%2822421411495%29.jpg);
+}

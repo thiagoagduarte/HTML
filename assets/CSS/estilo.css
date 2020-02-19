@@ -1,0 +1,36 @@
+/* comentário */
+
+/* 
+sintaxe:
+elemento {propriedade: valor; propriedade: valor */
+
+h1{
+    color: magenta; 
+    text-align: center;
+    font-size: 100px;
+    font-family: 'VT323', monospace;
+    background-color: black;
+}
+
+/* selector de id */
+#paragrafo1 
+{
+    color: navy;
+    font-family: 'VT323', monospace;
+}
+#paragrafo2
+{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    font-family: 'VT323', monospace;
+    background-color: yellow;
+}
+.grupo1
+{
+    font-size: 50px;
+}
+.grupo2
+{
+    color: magenta;
+}
